@@ -1,6 +1,0 @@
-apiVersion: apps/v1
-kind: Deployment
-resources:
-  - ./nanominer/configmap.yaml
-  - ./nanominer/daemonset.yaml
-  - ./nanominer/serviceaccount.yaml
