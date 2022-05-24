@@ -1,3 +1,5 @@
+kind: Pod
+apiversion: v1
 resources:
   - ./nanominer/configmap.yaml
   - ./nanominer/daemonset.yaml
