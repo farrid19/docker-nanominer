@@ -5,7 +5,7 @@ metadata:
   name: nanominer
 data:
   config.ini: |-
-    [[RandomX]]
+    [RandomX]
     wallet=446XzBeHx4LQqiXEbZnkC7cJ2jng8x3xKJZPVN14WDL8Eq2RrKkK3WQE3ges5noJfBKL9Fdr3eazfdHwgKaUC1CZ4G5DXeT
     coin = XMR
     sortPools=true
